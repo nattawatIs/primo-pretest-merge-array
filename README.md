@@ -2,7 +2,6 @@
 
 Implements a `merge` function that merges 3 sorted arrays into one ascending array.  
 
----
 
 ##  Installation
 
@@ -10,7 +9,6 @@ Implements a `merge` function that merges 3 sorted arrays into one ascending arr
 npm install
 ```
 
----
 
 ##  Run the code
 
@@ -18,13 +16,9 @@ npm install
 npm start
 ```
 
----
 
 ##  Run unit tests
 
 ```bash
 npm test
 ```
-
----
-
